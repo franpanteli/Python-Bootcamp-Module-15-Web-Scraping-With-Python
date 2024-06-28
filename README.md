@@ -36,5 +36,5 @@ This repository is organised into the following sections:
 
 ### To Clone This Repository
 ```
-https://github.com/franpanteli/Python-Bootcamp-Module-15-Web-Scraping-With-Python.git
+git clone https://github.com/franpanteli/Python-Bootcamp-Module-15-Web-Scraping-With-Python.git
 ```
